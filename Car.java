@@ -12,4 +12,7 @@ public class Car {
     public void setweight(int weight){
         this.weight=weight;
     }
+    public void setColor(String color){
+        this.color=color;
+    }
 }
