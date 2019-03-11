@@ -9,4 +9,7 @@ public class Car {
         this.name=name;
         this.weight=weight;
     }
+    public void setweight(int weight){
+        this.weight=weight;
+    }
 }
